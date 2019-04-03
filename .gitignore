@@ -39,9 +39,6 @@ jspm_packages
 # IntelliJ IDEA folder
 .idea
 
-# Twilio credentials file
-.env
-
 # Misc
 .DS_Store
 package-lock.json
